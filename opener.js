@@ -13,7 +13,7 @@
  */
 'use strict';
 
-angular.module('jcDirectives').
+angular.module('jcDirectives', []).
   directive('jcOpener', function() {
     return {
       restrict: 'E',
