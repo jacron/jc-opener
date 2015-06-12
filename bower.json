@@ -1,7 +1,7 @@
 {
 	"name": "jc-opener",
-	"version": "0.1",
+	"version": "0.2",
     "dependecies": {
-      "angular": "`1.2.1"
+      "angular": "1.2.1"
     }
 }
