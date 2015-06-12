@@ -15,5 +15,10 @@ Optional attribute target: the jQuery / angular selector of the element
 that is to be shown/hidden.
 
 Optional attribute initial: initial state of target element, default: closed.
+
+Style the jc-opener tag: 
+- class "opener" is added to jc-opener
+- when target is closed, the class "closed" is added to jc-opener
+
 ##dependencies
 Dependencies: angular
